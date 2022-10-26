@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Remember me_form-control</name>
+   <tag></tag>
+   <elementGuidId>e1ac0961-0402-4ad2-a17d-ec4effd33ce1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='SIGN IN']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SigninForm > div.row.set-center > div.col-lg-5.col-md-5.col-sm-5.col-xs-5 > input.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>651e2996-6ab6-425b-b57c-99d870fa457b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b97b1fc7-b2ed-40e1-8385-ef9c03c73b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>379e7d7c-03d9-4488-9ce4-0ef560fbe05f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>SIGN IN</value>
+      <webElementGuid>79f5d186-d22e-4ca1-9f43-c6eb851165a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SigninForm&quot;)/div[@class=&quot;row set-center&quot;]/div[@class=&quot;col-lg-5 col-md-5 col-sm-5 col-xs-5&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>fd30ef5b-5017-498d-903c-4cf0ebc10ba8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='SIGN IN']</value>
+      <webElementGuid>b0bb2f6a-c8ca-46cc-86fc-a470115186dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='SigninForm']/div[2]/div/input</value>
+      <webElementGuid>b1a51fec-96b5-4126-8440-78baffddda1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/input</value>
+      <webElementGuid>60317daa-4729-4547-a1f3-0d8d8117dc64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>c42918e4-57b8-44ed-b428-0111fe7acb58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pending_fa fa-chevron-down togfa</name>
+   <tag></tag>
+   <elementGuidId>43a1e1b7-cb42-476c-ab2b-66e17e76e850</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dropdown-detail-1']/div[5]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-down.togfa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>67c6d592-d8c8-4c78-81c2-a5f1eb4f44c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-down togfa</value>
+      <webElementGuid>62a4011e-f524-4aa5-bc1c-996d90fdf356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-form&quot;)/div[@class=&quot;form-group&quot;]/ul[@class=&quot;list-group&quot;]/li[@class=&quot;list-group-item&quot;]/div[@id=&quot;dropdown-detail-1&quot;]/div[@class=&quot;col-2 col-lg-1 toggle&quot;]/button[@class=&quot;btn btn-sm pull-right rounded-circle&quot;]/i[@class=&quot;fa fa-chevron-down togfa&quot;]</value>
+      <webElementGuid>6cad9fe4-69e2-4b19-b13f-ff7944f3308e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dropdown-detail-1']/div[5]/button/i</value>
+      <webElementGuid>aa8517f6-5dcf-42c7-b8ed-f3e4533f4c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>db5bee54-efa5-40fd-a934-72d459a60e4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
